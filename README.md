@@ -21,7 +21,7 @@ If you clone with HTTPS, you can cache your Github password in Git using a helpe
 Once you have your team members to be able to work collaboratively. You need to add the other members of the team to be as collaborator. Once your team members are added  as collaborators they'll be able to push, merge, commit to the repository.
 
 1. To add collaborators, you click on the "Settings" tab, then "Collaborators" then search for the users by their username and add them by clicking "Add Collaborator". 
-2.The team members should recieve an e-mail with an invitation to be listed as a collaborator, the members should accept the invite and work from there. 
+2. The team members should recieve an e-mail with an invitation to be listed as a collaborator, the members should accept the invite and work from there. 
 
 ### Collaborating
 
