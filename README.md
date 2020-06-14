@@ -2,10 +2,11 @@
 
 ### How to Set Up Git
 <ol>
- <li> 1. Make sure you download and install the latest version of Git. </li>
-2. Set your username in Git.
-3. Set your commit email address in Git.
+ <li> Make sure you download and install the latest version of Git. </li>
+ <li> Set your username in Git. </li>
+ <li> Set your commit email address in Git. </li>
 </ol>
+
 ### Authenticating Github from Git
 
 When you are connecting to a Github repository from Git, an authentication is need with Github using HTTPS or SSH.
