@@ -13,10 +13,11 @@ When you are connecting to a Github repository from Git, an authentication is ne
 If you clone with HTTPS, you can cache your Github password in Git using a helper. The helper will provide a step by step tutorial on how to connect it together.
 
 ### Collaborating wih More than One Person
-
-1. Go to Github and click the "+" button in the top right corner where your display icon is and select 'New Repository'. Then fill out the Repository name and the Description fields. Make sure to change the settings according to what your professor wants.
-2. Make sure to have "READ.md" file accessible to be able to commit or make other changes and choose whether you would like it to be private or public.
-3. Juts make sure when you know the difference between forking vs. cloning. When forking a repository you are creating a copy of the original repository but the repository remains on your Github account. As compared to cloning, the repository is copied onto whichever machine being used with the help of Git. So when doing a project, make sure you are using the right one. 
+<ol>
+<li> Go to Github and click the "+" button in the top right corner where your display icon is and select 'New Repository'. Then fill out the Repository name and the Description fields. Make sure to change the settings according to what your professor wants. </li>
+<li> Make sure to have "READ.md" file accessible to be able to commit or make other changes and choose whether you would like it to be private or public. </li>
+<li> Just make sure when you know the difference between forking vs. cloning. When forking a repository you are creating a copy of the original repository but the repository remains on your Github account. As compared to cloning, the repository is copied onto whichever machine being used with the help of Git. So when doing a project, make sure you are using the right one. </li>
+ </ol> 
 
  ### Setup Your Team
  
